@@ -1,0 +1,51 @@
+,Item,Item_Name,Category,Avg_Demand,Std_Demand,CV_%,Lead_Time,Service_Level,Z_value,Safety_Stock,Reorder_Point
+0,1,Clarithromycin_500mg,Antibiotic,21.98,8.47,39.0,7,0.95,1.64,37.0,191.0
+1,2,Clopidogrel_75mg,Cardiovascular,58.57,20.09,34.0,7,0.95,1.64,87.0,497.0
+2,3,Loperamide_2mg,Gastro,36.64,13.18,36.0,7,0.95,1.64,57.0,313.0
+3,4,Hydroxychloroquine_200mg,Immunology,22.01,8.4,38.0,7,0.95,1.64,36.0,190.0
+4,5,Rivaroxaban_10mg,Cardiovascular,18.36,7.27,40.0,7,0.95,1.64,32.0,161.0
+5,6,Tramadol_50mg,Pain Relief,58.5,20.17,34.0,7,0.95,1.64,88.0,498.0
+6,7,Gabapentin_300mg,Neurology,58.53,20.15,34.0,7,0.95,1.64,87.0,497.0
+7,8,Atorvastatin_10mg,Cardiovascular,76.95,26.13,34.0,7,0.95,1.64,113.0,652.0
+8,9,Sertraline_50mg,Psychiatric,51.39,17.79,35.0,7,0.95,1.64,77.0,437.0
+9,10,Cefixime_200mg,Antibiotic,73.23,24.82,34.0,7,0.95,1.64,108.0,621.0
+10,11,Ciprofloxacin_500mg,Antibiotic,69.66,23.74,34.0,5,0.95,1.64,87.0,435.0
+11,12,Diclofenac_50mg,Pain Relief,69.63,23.74,34.0,5,0.95,1.64,87.0,435.0
+12,13,Metformin_500mg,Diabetes,84.32,28.31,34.0,5,0.95,1.64,104.0,526.0
+13,14,Montelukast_10mg,Allergy,58.68,20.08,34.0,5,0.95,1.64,74.0,367.0
+14,15,Paracetamol_500mg,Pain Relief,88.03,29.52,34.0,5,0.95,1.64,108.0,548.0
+15,16,Salbutamol_Inhaler,Respiratory,25.66,9.6,37.0,5,0.95,1.64,35.0,163.0
+16,17,Ondansetron_4mg,Gastro,32.99,11.97,36.0,5,0.95,1.64,44.0,209.0
+17,18,Amoxicillin_250mg,Antibiotic,84.28,28.43,34.0,5,0.95,1.64,104.0,525.0
+18,19,Iron_Folic_Acid,Supplement,40.36,14.33,36.0,5,0.95,1.64,53.0,255.0
+19,20,Metoprolol_50mg,Cardiovascular,47.52,16.49,35.0,5,0.95,1.64,60.0,298.0
+20,21,Ketoconazole_Cream,Dermatology,40.32,14.34,36.0,5,0.95,1.64,53.0,255.0
+21,22,Aspirin_75mg,Cardiovascular,80.5,27.12,34.0,5,0.95,1.64,99.0,502.0
+22,23,Cefuroxime_500mg,Antibiotic,29.3,10.82,37.0,5,0.95,1.64,40.0,186.0
+23,24,Rosuvastatin_20mg,Cardiovascular,66.04,22.53,34.0,5,0.95,1.64,83.0,413.0
+24,25,Azithromycin_500mg,Antibiotic,80.69,27.24,34.0,5,0.95,1.64,100.0,503.0
+25,26,Spironolactone_25mg,Cardiovascular,47.64,16.72,35.0,5,0.95,1.64,61.0,299.0
+26,27,Budesonide_Inhaler,Respiratory,22.05,8.46,38.0,5,0.95,1.64,31.0,141.0
+27,28,Ibuprofen_400mg,Pain Relief,87.88,29.5,34.0,5,0.95,1.64,108.0,547.0
+28,29,Glimepiride_2mg,Diabetes,69.62,23.64,34.0,5,0.95,1.64,87.0,435.0
+29,30,Calcium_Carbonate,Supplement,40.34,14.36,36.0,5,0.95,1.64,53.0,255.0
+30,31,Doxycycline_100mg,Antibiotic,58.64,20.1,34.0,3,0.95,1.64,57.0,233.0
+31,32,Propranolol_40mg,Cardiovascular,43.98,15.57,35.0,3,0.95,1.64,44.0,176.0
+32,33,Losartan_50mg,Cardiovascular,69.56,23.72,34.0,3,0.95,1.64,67.0,276.0
+33,34,Insulin_Glargine,Diabetes,25.74,9.62,37.0,3,0.95,1.64,27.0,104.0
+34,35,Levocetirizine_5mg,Allergy,65.8,22.46,34.0,3,0.95,1.64,64.0,261.0
+35,36,Telmisartan_40mg,Cardiovascular,77.03,26.07,34.0,3,0.95,1.64,74.0,305.0
+36,37,Amikacin_Injection,Antibiotic,29.26,10.77,37.0,3,0.95,1.64,31.0,119.0
+37,38,Pantoprazole_40mg,Gastro,80.52,27.14,34.0,3,0.95,1.64,77.0,319.0
+38,39,Vitamin_D3_60000IU,Supplement,43.88,15.51,35.0,3,0.95,1.64,44.0,176.0
+39,40,Prednisolone_10mg,Steroid,29.25,10.82,37.0,3,0.95,1.64,31.0,119.0
+40,41,Ranitidine_150mg,Gastro,22.0,8.4,38.0,3,0.95,1.64,24.0,90.0
+41,42,Mupirocin_Ointment,Dermatology,36.69,13.22,36.0,3,0.95,1.64,38.0,148.0
+42,43,Furosemide_40mg,Cardiovascular,51.29,17.8,35.0,3,0.95,1.64,51.0,205.0
+43,44,Warfarin_5mg,Cardiovascular,29.4,10.8,37.0,3,0.95,1.64,31.0,119.0
+44,45,Amlodipine_5mg,Cardiovascular,80.58,27.32,34.0,3,0.95,1.64,78.0,320.0
+45,46,Sitagliptin_100mg,Diabetes,58.64,20.22,34.0,3,0.95,1.64,57.0,233.0
+46,47,Enalapril_5mg,Cardiovascular,22.0,8.42,38.0,3,0.95,1.64,24.0,90.0
+47,48,Escitalopram_10mg,Psychiatric,51.35,17.88,35.0,3,0.95,1.64,51.0,205.0
+48,49,Heparin_Injection,Cardiovascular,29.34,10.87,37.0,3,0.95,1.64,31.0,119.0
+49,50,Omeprazole_20mg,Gastro,65.88,22.42,34.0,3,0.95,1.64,64.0,262.0
